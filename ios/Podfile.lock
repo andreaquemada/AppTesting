@@ -1,0 +1,152 @@
+PODS:
+  - "!ProtoCompiler (3.6.0)":
+    - Protobuf (~> 3.0)
+  - activity_recognition (0.0.1):
+    - Flutter
+  - app_usage (0.0.1):
+    - Flutter
+  - battery (0.0.1):
+    - Flutter
+  - call_log (1.0.0):
+    - Flutter
+  - connectivity (0.0.1):
+    - Flutter
+    - Reachability
+  - device_apps (0.0.1):
+    - Flutter
+  - device_info (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_blue (0.0.1):
+    - "!ProtoCompiler"
+    - Flutter
+    - flutter_blue/Protos (= 0.0.1)
+  - flutter_blue/Protos (0.0.1):
+    - "!ProtoCompiler"
+    - Flutter
+    - Protobuf
+  - flutter_sound (0.0.1):
+    - Flutter
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - light (0.0.1):
+    - Flutter
+  - location (0.0.1):
+    - Flutter
+  - map_view (0.0.12):
+    - Flutter
+    - GoogleMaps
+  - noise_meter (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - pedometer (0.0.1):
+    - Flutter
+  - Protobuf (3.6.1)
+  - Reachability (3.2)
+  - screen_state (0.0.1):
+    - Flutter
+  - sensors (0.0.1):
+    - Flutter
+  - sms (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - activity_recognition (from `.symlinks/plugins/activity_recognition/ios`)
+  - app_usage (from `.symlinks/plugins/app_usage/ios`)
+  - battery (from `.symlinks/plugins/battery/ios`)
+  - call_log (from `.symlinks/plugins/call_log/ios`)
+  - connectivity (from `.symlinks/plugins/connectivity/ios`)
+  - device_apps (from `.symlinks/plugins/device_apps/ios`)
+  - device_info (from `.symlinks/plugins/device_info/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_blue (from `.symlinks/plugins/flutter_blue/ios`)
+  - flutter_sound (from `.symlinks/plugins/flutter_sound/ios`)
+  - light (from `.symlinks/plugins/light/ios`)
+  - location (from `.symlinks/plugins/location/ios`)
+  - map_view (from `.symlinks/plugins/map_view/ios`)
+  - noise_meter (from `.symlinks/plugins/noise_meter/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - pedometer (from `.symlinks/plugins/pedometer/ios`)
+  - screen_state (from `.symlinks/plugins/screen_state/ios`)
+  - sensors (from `.symlinks/plugins/sensors/ios`)
+  - sms (from `.symlinks/plugins/sms/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - "!ProtoCompiler"
+    - GoogleMaps
+    - Protobuf
+    - Reachability
+
+EXTERNAL SOURCES:
+  activity_recognition:
+    :path: ".symlinks/plugins/activity_recognition/ios"
+  app_usage:
+    :path: ".symlinks/plugins/app_usage/ios"
+  battery:
+    :path: ".symlinks/plugins/battery/ios"
+  call_log:
+    :path: ".symlinks/plugins/call_log/ios"
+  connectivity:
+    :path: ".symlinks/plugins/connectivity/ios"
+  device_apps:
+    :path: ".symlinks/plugins/device_apps/ios"
+  device_info:
+    :path: ".symlinks/plugins/device_info/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  flutter_blue:
+    :path: ".symlinks/plugins/flutter_blue/ios"
+  flutter_sound:
+    :path: ".symlinks/plugins/flutter_sound/ios"
+  light:
+    :path: ".symlinks/plugins/light/ios"
+  location:
+    :path: ".symlinks/plugins/location/ios"
+  map_view:
+    :path: ".symlinks/plugins/map_view/ios"
+  noise_meter:
+    :path: ".symlinks/plugins/noise_meter/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  pedometer:
+    :path: ".symlinks/plugins/pedometer/ios"
+  screen_state:
+    :path: ".symlinks/plugins/screen_state/ios"
+  sensors:
+    :path: ".symlinks/plugins/sensors/ios"
+  sms:
+    :path: ".symlinks/plugins/sms/ios"
+
+SPEC CHECKSUMS:
+  "!ProtoCompiler": c9526df99fafd398a393def617ae18d3774b7232
+  activity_recognition: 3b34c3f0f1d8fcee08875d2f246910a1906c2de0
+  app_usage: f7d3148e9137c0e93deeac1d54f616bffb1b119c
+  battery: 8397f8af82e33419d2e07140c96ce2023957cc7d
+  call_log: 51964527fac538a6979110770e05a90ba0f648f7
+  connectivity: d5992e3758d68b1c4b12d6e012fe0813f1aa1645
+  device_apps: 6bd1e8da3cf381c65bc0f2409c0714f5d1723fcc
+  device_info: 76ce0b32e13034d1883be4a382433648f9dcee63
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  flutter_blue: b70de6bcf4159bdc3ef65f04be3f745c5fc61883
+  flutter_sound: ec7c1debf6cd72d44b1270a1f7a999af15ca8113
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  light: 374c24527aa568d75886b57ec6e82ab2f7feaef6
+  location: 26c90953ad5916331d0d1d913898779910416487
+  map_view: 4a71319ae78b6fb4c20813224b8c6e256703ff9b
+  noise_meter: dfa470dbbe275fb10c44996cca81d59043560c70
+  path_provider: 09407919825bfe3c2deae39453b7a5b44f467873
+  pedometer: 817eaf4a2f8b0046f20683ed35a3eab201f9db6a
+  Protobuf: 1eb9700044745f00181c136ef21b8ff3ad5a0fd5
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  screen_state: 65c5e08bff84dfe839d0d47d1e591affb854f39e
+  sensors: 5e1d451d2b563766999e768342efed82d6141fcc
+  sms: 0f582dd38a560d2429e4341ef230c0b402f5eaa8
+
+PODFILE CHECKSUM: 3389836f37640698630b8f0670315d626d5f1469
+
+COCOAPODS: 1.5.3
