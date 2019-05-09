@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:intl/intl.dart';
 
-var api_key = "AIzaSyDLGpQ-wUdllb35otDIDSEpvIHeE7W_y_U";
+var api_key = "";
 
 class Edit extends StatefulWidget {
 
